@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
 
 public class LoginSD {
 
-    WebDriver driver;
+   /* WebDriver driver;
 
 
     @Given("I am on login page")
@@ -60,6 +60,6 @@ public class LoginSD {
         Assert.assertEquals(actual,expected,"incorrect url");
 
     }
-
+*/
 
 }
